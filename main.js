@@ -124,7 +124,7 @@ function HTMLComputadoresProduto(con) {
                           Adicionar no carrinho
                           </button>
                           </div>
-                          <small class="text-muted">Fretis Gratis</small>
+                          <small class="text-muted">Frete Grátis</small>
                       </div>
                   </div>
               </div>
@@ -168,7 +168,7 @@ function HTMLMemoriasProduto(con) {
                           Adicionar no carrinho
                           </button>
                           </div>
-                          <small class="text-muted">Fretis Gratis</small>
+                          <small class="text-muted">Frete Grátis</small>
                       </div>
                   </div>
               </div>
@@ -212,7 +212,7 @@ function HTMLPerifericosProduto(con) {
                           Adicionar no carrinho
                           </button>
                           </div>
-                          <small class="text-muted">Fretis Gratis</small>
+                          <small class="text-muted">Frete Grátis</small>
                       </div>
                   </div>
               </div>
